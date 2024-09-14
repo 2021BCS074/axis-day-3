@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Tesla;
+    src: url('/tesla/TESLA.ttf') format('truetype');
+}
+
+/* Apply Tesla font to the entire website */
+body {
+    font-family: "Tesla", sans-serif;
+}
+
+.bg-primary {
+    background-color: aqua !important;
+}
+
+.navbar-brand {
+    color: red !important;
+}
+
+.skill-name {
+    font-family: "Tesla", sans-serif;
+    font-size: 32px;
+    font-weight: 800;
+}
+ 
